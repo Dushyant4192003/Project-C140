@@ -1,0 +1,26 @@
+.note {
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    color: black;
+}
